@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maul-lq.maul-lq&left_color=crimson&right_color=firebrick"  />
 </div>
 
@@ -34,12 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/Qq-XB_mSnd8AAAAC/imhotep-the-mummy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -50,6 +44,12 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/Qq-XB_mSnd8AAAAC/imhotep-the-mummy.gif"  />
+
+###
+
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maul-lq/maul-lq/output/snake.svg" alt="Snake animation" />
 
 ###
