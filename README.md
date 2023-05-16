@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm maul-lq - Batu</h1>
-<h3 align="center">Si Tukang Koding</h3>
+<h3 align="center">Si Batu</h3>
 
 
 ###
