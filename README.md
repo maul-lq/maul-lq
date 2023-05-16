@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizlrad - Bocil Batu</h1>
+<h1 align="center">Hi 👋, I'm Rizlrad - Batu</h1>
 <h3 align="center">Si Tukang Koding</h3>
 
 
