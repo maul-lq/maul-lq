@@ -46,10 +46,3 @@
 
 <img align="right" height="150" src="https://media.tenor.com/Qq-XB_mSnd8AAAAC/imhotep-the-mummy.gif"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maul-lq/maul-lq/output/snake.svg" alt="Snake animation" />
-
-###
