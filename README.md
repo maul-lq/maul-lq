@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maul-lq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maul-lq&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RizlradFz&theme=synthwave" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maul-lq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
