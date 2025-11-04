@@ -70,7 +70,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://imgflip.com/gif/aao2dv](https://github.com/maul-lq/maul-lq/)" alt="D" />
+<img align="right" height="150" src="https://github.com/maul-lq/maul-lq/blob/asst/aao2dv.gif" alt="D" />
 
 ###
 
@@ -97,4 +97,5 @@
 </div>
 
 ###
+
 
