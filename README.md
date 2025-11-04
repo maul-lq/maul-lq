@@ -68,12 +68,6 @@
 
 <h3 align="left">Currently Interested In</h3>
 
-###
-
-<img align="right" height="150" src="https://github.com/maul-lq/maul-lq/blob/asst/aao2dv.gif" alt="D" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
@@ -97,5 +91,6 @@
 </div>
 
 ###
+
 
 
