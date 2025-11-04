@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maul-lq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maul-lq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maul-lq&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="maul-lq" height="150" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maul-lq&show_icons=true&theme=synthwave&locale=en" alt="maul-lq" height="150"/></p>
 </div>
 
 ###
@@ -66,9 +66,9 @@
 
 ###
 
-<h3 align="left">Currently Interested In</h3>
+<h3 align="center">Currently Interested In</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -86,11 +86,19 @@
 
 ###
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/api?user=maul-lq&" alt="maul-lq" /></p>
+
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
+
 
 
 
