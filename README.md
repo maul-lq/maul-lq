@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left"">Hi 👋! I'm Rizlrad, and I'm nobodi, from Indonesia</h2>
+<h2 align="left"">Hi 👋! I'm Rizlrad, from Indonesia</h2>
 
 ###
 
@@ -92,6 +92,7 @@
 </div>
 
 ###
+
 
 
 
