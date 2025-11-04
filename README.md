@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left""><img src="https://github.com/maul-lq/maul-lq/blob/asst/TextStudio-Typewriter.gif"/></h2>
+<h2 align="left"">Hi 👋! I'm Rizlrad from Indonesia.</h2>
 
 
 ###
@@ -93,6 +93,7 @@
 </div>
 
 ###
+
 
 
 
