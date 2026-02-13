@@ -16,13 +16,6 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maul-lq&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="maul-lq" height="150" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maul-lq&show_icons=true&theme=synthwave&locale=en" alt="maul-lq" height="150"/></p>
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -72,14 +65,6 @@
 
 ###
 
-###
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=maul-lq" alt="maul-lq" />
-
-
-###
-
 <br clear="both">
 <img src="https://github.com/maul-lq/maul-lq/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -90,6 +75,7 @@
 </div>
 
 ###
+
 
 
 
